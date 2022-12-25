@@ -1,0 +1,4 @@
+name: ExampleShit
+version: '1.0-SNAPSHOT'
+main: me.wadamka.exampleshit.ExampleShit
+api-version: 1.19

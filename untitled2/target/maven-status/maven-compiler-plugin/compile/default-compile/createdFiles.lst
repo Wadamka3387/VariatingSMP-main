@@ -1,0 +1,8 @@
+me\wadamka\exampleshit\listener\PlayerEatEvent.class
+me\wadamka\exampleshit\storage\PlayerWeakness.class
+me\wadamka\exampleshit\listener\CreeperExplodeEvent.class
+me\wadamka\exampleshit\listener\PlayerSleepEvent.class
+me\wadamka\exampleshit\listener\PlayerHitEvent.class
+me\wadamka\exampleshit\listener\BlockBreak.class
+me\wadamka\exampleshit\ExampleShit.class
+me\wadamka\exampleshit\listener\OnFallDamageEvent.class

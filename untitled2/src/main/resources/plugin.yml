@@ -1,0 +1,4 @@
+name: ExampleShit
+version: '${project.version}'
+main: me.wadamka.exampleshit.ExampleShit
+api-version: 1.19
